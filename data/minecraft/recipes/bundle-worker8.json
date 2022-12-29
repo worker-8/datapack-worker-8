@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "SLS",
+    "L L",
+    " L "
+  ],
+  "key": {
+    "L": [{"item": "minecraft:leather"}],
+    "S": [{"item": "minecraft:string"}]
+  },
+  "result": {
+    "item": "minecraft:bundle"
+  }
+}
